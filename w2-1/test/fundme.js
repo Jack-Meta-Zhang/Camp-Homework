@@ -1,11 +1,11 @@
 const {ethers} = require('hardhat')
 const {expect,assert} = require('chai')
 
-describe("Bank",()=>{
+describe("FundMe",()=>{
 
     const fundFee = ethers.utils.parseEther("0.01");
     async function deployBankFixture(){
-        const BankFactory = await ethers.getContractFactory("Bank");
+        const BankFactory = await ethers.getContractFactory("FundMe");
         const Bank = await BankFactory.deploy();
         const [owner, otherAccount] = await ethers.getSigners();
 
