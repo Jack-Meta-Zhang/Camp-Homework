@@ -17,3 +17,7 @@ opensea 地址 https://testnets.opensea.io/zh-CN/collection/fei-nft-1
 nftmarket 地址 https://mumbai.polygonscan.com/address/0x87d67c89dBDa39b47A4b1E4650Af311E951ce1f5
 
 w3-2 升级合约地址 https://mumbai.polygonscan.com/address/0xaa25392effecb63ff9292cd677359f5a85131a2d#writeProxyContract
+
+w4-1 效果图在 w4-1/public/vue-bank.png
+
+w4-1-backend 转账事件存储在文本中 w4-1-backend/src/logs/transferLog.json
