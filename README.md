@@ -21,3 +21,5 @@ w3-2 升级合约地址 https://mumbai.polygonscan.com/address/0xaa25392effecb63
 w4-1 效果图在 w4-1/public/vue-bank.png
 
 w4-1-backend 转账事件存储在文本中 w4-1-backend/src/logs/transferLog.json
+
+w4-2 效果图在 w4-2/nft-marketplace/public
